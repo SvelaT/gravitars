@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+
+.star {
+  position: absolute;
+  background-color: white;
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 50px #fff;
+}
